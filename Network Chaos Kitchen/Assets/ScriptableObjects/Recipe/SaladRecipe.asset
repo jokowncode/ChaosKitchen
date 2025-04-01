@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d0cd9427824f2b86b03abf5ff47248, type: 3}
+  m_Name: SaladRecipe
+  m_EditorClassIdentifier: 
+  FinalFoodPrefab: {fileID: 5685055260346456175, guid: 2abea06b50ab5d54f9c3baed42429b9b, type: 3}
+  RecipeFoods:
+  - OriginFoodSprite: {fileID: 21300000, guid: 91e8fe3de9249fc44b7bdd8050062896, type: 3}
+    CurrentFoodSort: 3
+    Op: 1
+  - OriginFoodSprite: {fileID: 21300000, guid: e1c23b5aded59d84da30738d3267a6c9, type: 3}
+    CurrentFoodSort: 11
+    Op: 1
+  BaseFee: 40
+  PrepareTime: 36

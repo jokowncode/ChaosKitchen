@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09fda9f328874c5abb17461c48805c83, type: 3}
+  m_Name: BreadContainer
+  m_EditorClassIdentifier: 
+  FoodPrefab: {fileID: -6611648507789901795, guid: 965e6867f9289cc48a4baf8e8aede108, type: 3}
+  FoodSprite: {fileID: 21300000, guid: 77b28124b8bda494381c80bd5aa42c22, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd36e02051d247059d3198ea551338e9, type: 3}
+  m_Name: GameSprites
+  m_EditorClassIdentifier: 
+  FrySprite: {fileID: 21300000, guid: 78ce53ec9cbf6244ca39d11c74b6e210, type: 3}
+  CutSprite: {fileID: 21300000, guid: 8bb9b47508a39f140a402599ca0a27c1, type: 3}
+  DeepFrySprite: {fileID: 21300000, guid: 22cb2ed1135beeb40870bcf803377e89, type: 3}
+  BoilSprite: {fileID: 21300000, guid: 9559d9aab0d5db647a40b5aeba7c712d, type: 3}
+  LockedSprite: {fileID: 21300000, guid: 4ae2fb3bb012e0846aec1887691d36d5, type: 3}
+  UnlockedSprite: {fileID: 21300000, guid: 003d217d402a59549bbf46cd832f90bd, type: 3}

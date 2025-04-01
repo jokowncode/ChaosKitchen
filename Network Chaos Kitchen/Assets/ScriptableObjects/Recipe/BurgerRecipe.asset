@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d0cd9427824f2b86b03abf5ff47248, type: 3}
+  m_Name: BurgerRecipe
+  m_EditorClassIdentifier: 
+  FinalFoodPrefab: {fileID: -8549514517343870709, guid: df0c5464203612b47b86dc86595beda6, type: 3}
+  RecipeFoods:
+  - OriginFoodSprite: {fileID: 21300000, guid: 77b28124b8bda494381c80bd5aa42c22, type: 3}
+    CurrentFoodSort: 9
+    Op: 0
+  - OriginFoodSprite: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b, type: 3}
+    CurrentFoodSort: 7
+    Op: 2
+  BaseFee: 40
+  PrepareTime: 45
